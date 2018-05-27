@@ -1,4 +1,6 @@
 .mypy_cache
 .python-version
 
+log
+
 config/library_provate.yaml
